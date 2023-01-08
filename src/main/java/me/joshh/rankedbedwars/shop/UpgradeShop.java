@@ -20,6 +20,7 @@ public abstract class UpgradeShop {
         upgrades = new HashMap<>();
 
 
+
     }
 
 
