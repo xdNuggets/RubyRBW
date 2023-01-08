@@ -8,6 +8,7 @@ public class JoinEvent implements Listener {
 
 
     @EventHandler
+
     public void onJoin(PlayerJoinEvent e) {
         if (!NPC.getNPCs().isEmpty()) {
             NPC.addJoinPacket(e.getPlayer());
