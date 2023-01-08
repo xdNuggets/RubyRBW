@@ -1,0 +1,10 @@
+name: RankedBedwars
+version: '${project.version}'
+main: me.joshh.rankedbedwars.RankedBedwars
+api-version: 1.19
+authors: [ Josh ]
+description: A custom coded Ranked Bedwars Plugin for Minecraft
+website: joshh.me
+commands:
+  npc:
+    description: test command to spawn NPCs
